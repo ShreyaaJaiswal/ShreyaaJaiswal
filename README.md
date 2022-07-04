@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ShreyaaJaiswal
+- 👋 Hi, I’m ShreyaaJaiswal
 - 👀 I’m interested in Software Development and Machine Learning  
 - 🌱 I’m currently pursuing B.Tech in Computer Science 
 - 💞️ I’m looking to collaborate on codes in C, Java and Python
